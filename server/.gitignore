@@ -1,0 +1,4 @@
+node_modules
+/*.txt
+/server/BACKUP
+/server/STATIC

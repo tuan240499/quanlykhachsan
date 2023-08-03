@@ -1,0 +1,14 @@
+#tuanvq_review_table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#tuanvq_review_table td, #tuanvq_review_table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#tuanvq_review_table tr:hover {background-color: rgb(232, 232, 232);}
+#tuanvq_review_table tr td:first-child {min-width: 120px;}
+#tuanvq_review_table tr td:last-child {text-align: justify;}
+
